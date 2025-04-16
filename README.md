@@ -1,6 +1,6 @@
 # My Cybersecurity Journey
 
-Welcome! I'm transitioning from a construction background into the world of cybersecurity. I hold the **CompTIA Security+** certification and am actively studying for **A+**, working through **TryHackMe (SAL1)**, and preparing for **CySA+**.
+Welcome! I'm transitioning from a construction background into the world of cybersecurity. I hold the **CompTIA Security+** certification and am actively studying for **A+**, while working through **TryHackMe (SAL1)**, and preparing for **CySA+**.
 
 This repo documents my learning, hands-on projects, and certifications along the way.
 
