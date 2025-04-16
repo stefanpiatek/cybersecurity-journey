@@ -8,7 +8,7 @@ This repo documents my learning, hands-on projects, and certifications along the
 
 ## Certifications
 
-- [x] CompTIA Security+ (2024)
+- [x] CompTIA Security+ (2025)
 - [ ] CompTIA A+ - In Progress
 - [ ] Cisco Certified Support Technitian (CCST) - In Progress
 - [ ] Cisco Certified Network Associate (CCNA) - Planned
