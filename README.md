@@ -10,10 +10,15 @@ This repo documents my learning, hands-on projects, and certifications along the
 
 - [x] CompTIA Security+ (2025)
 - [ ] CompTIA A+ - In Progress
-- [ ] Cisco Certified Support Technitian (CCST) - In Progress
-- [ ] Cisco Certified Network Associate (CCNA) - Planned
+- [ ] CompTIA Network+ - In Progress
 - [ ] TryHackMe SAL1 - In Progress
 - [ ] CompTIA CySA+ - Planned
+- [ ] Splunk Certified User - Planned
+- [ ] PCEP - Planned
+- [ ] PCAP - Planned
+- [ ] CompTIA Pentest+ - Planned
+- [ ] HTB CPTS - Planned
+- [ ] OSCP - Planned
 
 ---
 
@@ -23,7 +28,7 @@ This repo documents my learning, hands-on projects, and certifications along the
 Simulating Tier 1 support tickets to document how I would troubleshoot common issues.
 > [View Project](https://github.com/yourusername/help-desk-ticket-simulation)
 
-### 2. Networking Lab (CCNA Practice)
+### 2. Networking Lab 
 Creating a virtual network using Cisco Packet Tracer and documenting:
 - IP addressing
 - Subnetting
