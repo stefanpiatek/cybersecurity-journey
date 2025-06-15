@@ -9,14 +9,12 @@ This repo documents my learning, hands-on projects, and certifications along the
 ## Certifications
 
 - [x] CompTIA Security+ (2025)
-- [ ] CompTIA A+ - In Progress
-- [ ] CompTIA Network+ - In Progress
+- [ ] TryHackMe PT1 - In Progress
 - [ ] TryHackMe SAL1 - In Progress
 - [ ] CompTIA CySA+ - Planned
 - [ ] Splunk Certified User - Planned
 - [ ] PCEP - Planned
 - [ ] PCAP - Planned
-- [ ] CompTIA Pentest+ - Planned
 - [ ] HTB CPTS - Planned
 - [ ] OSCP - Planned
 
@@ -52,7 +50,7 @@ _Coming soon_
 
 | Goal | Status |
 |------|--------|
-| Land first Help Desk job | ⏳ In Progress |
+| Land first IT job | ⏳ In Progress |
 | Build a cybersecurity home lab | ✅ Done |
 | Get SOC Tier 1-ready | ⏳ In Progress |
 | Break into cybersecurity | 🚀 Coming soon |
